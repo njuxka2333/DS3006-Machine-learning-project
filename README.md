@@ -1,1 +1,1 @@
-# DS3006-Machine-learning-project
+# SDSC3006-Machine-learning-project
